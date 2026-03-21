@@ -40,10 +40,6 @@ Open the project folder
 Double click on index.html
 OR open with Live Server in VS Code
 
-📸 Screenshot
-
-(Add your calculator UI screenshot here)
-
 🎯 Learning Outcomes
 
 DOM Manipulation
